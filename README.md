@@ -32,4 +32,6 @@ To install Feeling on Windows without cmd(Command Prompt).
   - if you look on your Desktop you will see a folder called Feelings-main.
   - Thanks for installing Feelings
 
+If you have any issues go to issues and tell me what your problem is i will 80% of the time react.
+
 Have a great day!
